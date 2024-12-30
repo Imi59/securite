@@ -46,7 +46,10 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   padding-bottom: 10px;
+  text-align: left;
 }
+
+
 
 .heading_container h2::before {
   content: "";
